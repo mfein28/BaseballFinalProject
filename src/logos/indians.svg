@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="109px" height="126px" viewBox="0 0 109 126" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+  <desc>Created with Lunacy</desc>
+  <defs>
+    <path d="M0 0L108.137 0L108.137 126L0 126L0 0Z" id="path_1" />
+    <clipPath id="mask_1">
+      <use href="#path_1" />
+    </clipPath>
+  </defs>
+  <g id="cleveland-indians-logo@logotyp.us">
+    <path d="M0 0L108.137 0L108.137 126L0 126L0 0Z" id="Background" fill="none" stroke="none" />
+    <g clip-path="url(#mask_1)">
+      <path d="M20.4287 114.399L0 93.9701L0 20.1732L20.4287 0L83.5 0L83.5 46.4732L56.4322 46.4732L56.4322 31.4073L52.091 26.811L31.4073 26.811L27.0661 31.4073L27.0661 82.9881L31.4073 87.3293L52.091 87.3293L56.4322 82.9881L56.4322 67.9222L83.5 67.9222L83.5 93.9688L63.0713 114.397L20.4287 114.399Z" transform="translate(9.011017 7.300415)" id="Shape" fill="#FFFFFF" fill-rule="evenodd" stroke="none" />
+      <path d="M56.4339 104.952L73.7981 87.5877L73.7981 67.9256L56.4339 67.9256L56.4339 80.4376L49.0287 87.5877L24.5143 87.5877L17.3642 80.4376L17.3642 24.7699L24.5144 17.6198L49.0287 17.6198L56.4339 24.7699L56.4339 37.2819L73.7981 37.2819L73.7981 0L56.4339 0L56.4339 4.08607L52.3482 0L17.3642 0L0 17.6197L0 87.5894L17.3642 104.954L56.4335 104.952L56.4339 104.952Z" transform="translate(13.86441 11.89459)" id="Shape" fill="#E31937" fill-rule="evenodd" stroke="none" />
+    </g>
+  </g>
+</svg>
