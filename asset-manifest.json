@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/BaseballFinalProject/static/css/main.5f361e03.chunk.css",
+    "main.js": "/BaseballFinalProject/static/js/main.04944b34.chunk.js",
+    "main.js.map": "/BaseballFinalProject/static/js/main.04944b34.chunk.js.map",
+    "runtime-main.js": "/BaseballFinalProject/static/js/runtime-main.120618fc.js",
+    "runtime-main.js.map": "/BaseballFinalProject/static/js/runtime-main.120618fc.js.map",
+    "static/js/2.fe7370eb.chunk.js": "/BaseballFinalProject/static/js/2.fe7370eb.chunk.js",
+    "static/js/2.fe7370eb.chunk.js.map": "/BaseballFinalProject/static/js/2.fe7370eb.chunk.js.map",
+    "index.html": "/BaseballFinalProject/index.html",
+    "precache-manifest.ec2784e9ba27b9a48008670891712650.js": "/BaseballFinalProject/precache-manifest.ec2784e9ba27b9a48008670891712650.js",
+    "service-worker.js": "/BaseballFinalProject/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/BaseballFinalProject/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.fe7370eb.chunk.js.LICENSE.txt": "/BaseballFinalProject/static/js/2.fe7370eb.chunk.js.LICENSE.txt",
+    "static/media/cardinals.svg": "/BaseballFinalProject/static/media/cardinals.45e92dd8.svg",
+    "static/media/logo.svg": "/BaseballFinalProject/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.120618fc.js",
+    "static/js/2.fe7370eb.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.04944b34.chunk.js"
+  ]
+}
